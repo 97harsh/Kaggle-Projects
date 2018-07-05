@@ -1,7 +1,6 @@
-# Kaggle-Projects
+# First-Seaborn-Project
+My first work with Seaborn, a comprehensive seaborn function Notebook
 
-This Project contains kernel from Kaggle Projects
+This Work is done to make an comprehensive list of Seaborn Plots 
 
-This is my profile:
-https://www.kaggle.com/sharmaharsh 
-
+Criticism is welcome !!
